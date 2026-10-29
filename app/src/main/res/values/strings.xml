@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">时钟</string>
+    <string name="tab_clock">时钟</string>
+    <string name="tab_stopwatch">秒表</string>
+    <string name="tab_timer">计时器</string>
+
+    <string name="action_start">开始</string>
+    <string name="action_pause">暂停</string>
+    <string name="action_resume">继续</string>
+    <string name="action_reset">重置</string>
+    <string name="action_restart">重新开始</string>
+    <string name="action_lap">计次</string>
+
+    <string name="label_minutes">分钟</string>
+    <string name="label_seconds">秒</string>
+    <string name="timer_finished">时间到</string>
+    <string name="lap_number">第 %1$d 次</string>
+</resources>
